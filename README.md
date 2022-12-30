@@ -11,6 +11,9 @@ cout << "Az érettségi első feladata. Változók, operátorok.\n";
 printf("Az érettségi első feladata. Változók, operátorok.\n");
 
 //A beépítettek
+cout << "Beépített matematikai függvények.\n";
+printf("Beépített matematikai függvények.\n");
+
 
 ```
 ## License

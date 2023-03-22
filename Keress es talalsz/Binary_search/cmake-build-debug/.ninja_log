@@ -1,0 +1,19 @@
+# ninja log v5
+1	477	7012131351891392	CMakeFiles/Binary_search.dir/main.cpp.obj	a7d787b7a6085b85
+479	681	7012131353886057	Binary_search.exe	d9f62ca01caf326a
+1	582	7012132091693961	CMakeFiles/Binary_search.dir/main.cpp.obj	a7d787b7a6085b85
+584	1032	7012132096052307	Binary_search.exe	d9f62ca01caf326a
+2	408	7012134480289432	CMakeFiles/Binary_search.dir/main.cpp.obj	a7d787b7a6085b85
+410	698	7012134483160708	Binary_search.exe	d9f62ca01caf326a
+2	434	7012135808327291	CMakeFiles/Binary_search.dir/main.cpp.obj	a7d787b7a6085b85
+435	695	7012135810795203	Binary_search.exe	d9f62ca01caf326a
+4	547	7012136249586511	CMakeFiles/Binary_search.dir/main.cpp.obj	a7d787b7a6085b85
+548	721	7012136251248639	Binary_search.exe	d9f62ca01caf326a
+2	495	7012136709547419	CMakeFiles/Binary_search.dir/main.cpp.obj	a7d787b7a6085b85
+496	730	7012136711829564	Binary_search.exe	d9f62ca01caf326a
+2	799	7012137083737077	CMakeFiles/Binary_search.dir/main.cpp.obj	a7d787b7a6085b85
+800	1102	7012137086764877	Binary_search.exe	d9f62ca01caf326a
+2	425	7012137685963255	CMakeFiles/Binary_search.dir/main.cpp.obj	a7d787b7a6085b85
+425	612	7012137687779911	Binary_search.exe	d9f62ca01caf326a
+3	516	7012137832253900	CMakeFiles/Binary_search.dir/main.cpp.obj	a7d787b7a6085b85
+517	784	7012137834927500	Binary_search.exe	d9f62ca01caf326a

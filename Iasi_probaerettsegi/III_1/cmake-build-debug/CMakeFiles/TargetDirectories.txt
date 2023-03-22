@@ -1,0 +1,3 @@
+C:/Users/palma/Documents/GitHub/PalmAcademy/BAC_INFO_2023/Iasi_probaerettsegi/III_1/cmake-build-debug/CMakeFiles/III_1.dir
+C:/Users/palma/Documents/GitHub/PalmAcademy/BAC_INFO_2023/Iasi_probaerettsegi/III_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/palma/Documents/GitHub/PalmAcademy/BAC_INFO_2023/Iasi_probaerettsegi/III_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
